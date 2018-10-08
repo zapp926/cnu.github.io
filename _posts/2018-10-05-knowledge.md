@@ -559,6 +559,6 @@ Q1：复试主要面试什么问题呢？
 
 ![psylab.jepg](http://pdsh5ir09.bkt.clouddn.com/psylab.jpeg)
 
-
+![motivate.jpeg](http://pdsh5ir09.bkt.clouddn.com/motivate.jpeg)
 
 

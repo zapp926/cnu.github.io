@@ -125,6 +125,7 @@ Q6、电子版资料更新了，购买过资料的同学去网盘`初试资料_2
 ---
 ![college-psy.JPG](http://pdsh5ir09.bkt.clouddn.com/college-psy.JPG "加油哦！")
 
+![motivate.jpeg](http://pdsh5ir09.bkt.clouddn.com/motivate.jpeg)
 
 
 
