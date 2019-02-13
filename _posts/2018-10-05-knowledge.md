@@ -555,6 +555,8 @@ Q1：复试主要面试什么问题呢？
 ---
 ### 后记
 
+学叔微信：CNU_psychology
+
 书要由厚读薄，再由薄读厚。金丹九转，方始功成。两个多月时间，大家加油！
 
 ![ ](http://pmtd8ixk2.bkt.clouddn.com/tb_pic7.jpeg)

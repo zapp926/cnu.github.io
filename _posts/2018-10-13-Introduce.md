@@ -87,5 +87,7 @@ description: 选自己喜欢的方向，做自己擅长的事，会上瘾。
 
 [导师简介](http://xlxy.cnu.edu.cn/szdw/grfc/index.htm)
 
+学叔微信：CNU_psychology
+
 
 
