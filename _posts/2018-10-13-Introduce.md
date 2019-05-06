@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 应用心理各方向简介及导师名单
+title: 首师应用心理简介|导师名单
 category: blog
 description: 选自己喜欢的方向，做自己擅长的事，会上瘾。
 ---
