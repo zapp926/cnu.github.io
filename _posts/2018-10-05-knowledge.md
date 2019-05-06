@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 学叔答347应用心理一百问
+title: 学叔答应用心理一百问
 category: blog
 description: 书要由厚读薄，再由薄读厚。金丹九转，方始功成。两个多月时间，加油！
 ---
