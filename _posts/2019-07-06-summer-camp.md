@@ -48,5 +48,9 @@ description: 机会从来都留给有准备的人。
 
 学叔生在首师大，我就是心理学院的学叔。我们誓打造一个属于首师大应用心理考研学子的维基百科。来吧，我们一起星辰大海。
 
+![luckin_coffee](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/luckin_coffee.jpeg)
+
+前路漫漫，好风相伴，来一杯免费的小蓝杯。
+
 ![wechat_xueshu.jpeg](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
 
