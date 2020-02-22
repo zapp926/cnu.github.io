@@ -1,4 +1,4 @@
-# ---
+---
 layout:     post
 title: 首师大应用心理「复试资料」
 category: blog
