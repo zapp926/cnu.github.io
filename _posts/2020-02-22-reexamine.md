@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师大应用心理「复试资料」
+title: 首师大应用心理「复试训练营」
 category: blog
 description: 人生舞台，心流常在。
 ---
