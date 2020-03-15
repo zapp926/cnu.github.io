@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师大心理学院夏令营须知
+title: 首师心理学院夏令营指南
 category: blog
 description: 机会从来都留给有准备的人。
 ---

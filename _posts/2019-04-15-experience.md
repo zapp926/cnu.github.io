@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 347 应用心理上岸经验分享
+title: 首师应用心理上岸分享会
 category: blog
 description: 最美不过四月天，时节清明刚过，吐故纳新。此时忧伤伴着欢乐，我们一起回望过去，也期待你们的新生。
 ---
