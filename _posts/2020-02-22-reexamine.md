@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师应用心理「复试训练营」
+title: 首师应用心理「复试训练营」介绍
 category: blog
 description: 人生舞台，心流常在。
 ---
