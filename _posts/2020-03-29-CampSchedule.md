@@ -11,8 +11,7 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 
 ## 训练营开营视频
 
-<iframe src="//player.bilibili.com/player.html?aid=53427546&bvid=BV1k4411L7TU&cid=93471397&page=1" scrolling=”no” border=”0″ frameborder=”no” framespacing=”0″ allowfullscreen=”true” style=”width: 100%; height: 500px; max-width: 100%；align:center; padding:20px 0;”> </iframe>
-
+<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=53427546&bvid=BV1k4411L7TU&cid=93471397&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" align="center"> </iframe>
 
 
 ## 后记
