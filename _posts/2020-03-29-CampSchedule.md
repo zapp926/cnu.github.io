@@ -5,9 +5,13 @@ category: blog
 description: 人是世界上最好的产品，成为自己，是最大的奖赏。
 ---
 
-## 初试训练营详细规划
+## 训练营规划
 
 ![TrainingCampSchedule](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/TrainingCampSchedule.png)
+
+## 训练营开营视频
+
+<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=53427546&bvid=BV1k4411L7TU&cid=93471397&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 后记
 
