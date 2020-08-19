@@ -21,6 +21,5 @@ layout: default
         {% endfor %}
       </ul>
     </div>
-    <div>11</div>
   </div>
 </body>
