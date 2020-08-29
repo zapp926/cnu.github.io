@@ -14,93 +14,93 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 
 ### 新手指南
 
-1. 加入群组，群组二维码见下面👇图片，资料均已放入到群组中。
-2. 下载视频会议工具 Zoom，安装好即可，不需要注册。
-3. 下载 WorkFlowy，使用这个软件记录自己考研路上每天的学习输出，用来复盘。
-4. 下载 Zotero，具体参考「Zotero + 知网」技法。
-5. 文件全部采用英文驼峰式命名，是有原因的，具体原因就不在这里说了。
-6. 很多文件都加密，密码：xxxx-xxxx，很多文件都是这个密码。如果这个密码报错，那么请尝试xxxx-xxxx。
-7. 给大家分享的 CNU347.com 这个文件夹中资料较多，这个适度使用，挑选对自己有用的文件即可。这个文件没那么重要，所以在一些挑选适合自己的即可。同时文件比较大，不需要转存到自己的网盘，文件夹不会失效，使用什么挑选什么即可。
-8. Zoom、Zotero、Psychopy 这些要求下载电脑端软件，使用电脑学习。Zoom 可以同步下载一个到手机上。这些软件可以直接百度搜索到相关官方下载地址进行下载的。
+- 加入群组，群组二维码见下面👇图片，资料均已放入到群组中；
+- 下载视频会议工具 Zoom，安装好即可，不需要注册；
+- 下载 WorkFlowy，使用这个软件记录自己考研路上每天的学习输出，用来复盘；
+- 下载 Zotero，具体参考「Zotero + 知网」技法；
+- 文件全部采用英文驼峰式命名，是有原因的，具体原因就不在这里说了；
+- 很多文件都加密，密码：xxxx-xxxx，很多文件都是这个密码。如果这个密码报错，那么请尝试xxxx-xxxx；
+- 给大家分享的 CNU347.com 这个文件夹中资料较多，这个适度使用，挑选对自己有用的文件即可。这个文件没那么重要，所以在一些挑选适合自己的即可。同时文件比较大，不需要转存到自己的网盘，文件夹不会失效，使用什么挑选什么即可；
+- Zoom、Zotero、Psychopy 这些要求下载电脑端软件，使用电脑学习。Zoom 可以同步下载一个到手机上。这些软件可以直接百度搜索到相关官方下载地址进行下载的；
 
 ### TextBookSet
 「TextBookSet」这个文件夹主要存放的是指定三本书的多个版本的 PDF 文件，供大家主题阅读法和积累日常素材时所用。主题阅读法，如阅读普心中的「情绪」章节，不同版本的教材，写的侧重点以及解释的程度各异，所以能用来参考。相互补充，辅助理解。文件夹现有普心和实验心理学的教材。
 
 该文件夹现有如下资料：
-1. 「GeneralPsychologySet」该文件夹存放的是各种版本的普心。
-2. 「ExperimentalPsychologySet」该文件夹存放的是各种版本的实验。
-3. 「StatisticsPsychologySet」该文件夹存放的是各种版本的统计。
-	a. 舒华老师讲解的「多因素实验设计」视频。
+- 「GeneralPsychologySet」该文件夹存放的是各种版本的普心；
+- 「ExperimentalPsychologySet」该文件夹存放的是各种版本的实验；
+- 「StatisticsPsychologySet」该文件夹存放的是各种版本的统计；
+    - 舒华老师讲解的「多因素实验设计」视频。
 
 ### VideoSet
 「VideoSet」这个文件夹存在我们每次使用 Zoom 交流后的录像，如「TrainingCampSchedule…」是我们训练营开营的视频，「PaperReading001…」这个是我们第一次文献共读的讲解视频。之后串讲课本，答疑交流的一些录像也都会放在这个文件夹中。不同类型的录像，通过文件名进行区分即可。文件名采用驼峰式，可读性很高。「心理学在线实验平台」视频比较重要，需要看。
 
 该文件夹现有如下资料：
-1. 「TrainingCampScheduleCeremony」这个是我们初试训练营的开营视频。
-2. 「PaperReading001_Attention…」这个视频是我们第一篇文献共读的讲解视频。
-3. 「PaperReading002_Mindful…」这个视频是我们第二篇文献共读的讲解视频。
-4. 「PaperReading003_Emotional…」这个视频是我们第三篇文献共读的讲解视频。
-5. 「HowToThinkStraight…」这个视频是我们科普「这才是心理学」的科普讲解视频第一部。
-6. 「PaperReading004_Spatial…」这个视频是我们第四篇文献共读的讲解视频。
-7. 「HowToLearn…」有两个视频，一个是如何复习普心，一个是如何复习实验心理学课本。
-8. 「PaperReading005_Effect…」这个视频是我们第五篇文献共读的讲解视频。
-9. 「PsychopyOnlineExperimentPlatform」这个视频是实验心理学在线实验平台，用来学习相关实验范式。
-10. 「mayAnswerQuestion」这个视频是五月整体答疑。
-11. 「PaperReading006_SpatialObject…」这个视频是我们第六篇文献共读的讲解视频。
-12. 「PaperReading007_AnERPStudy…」这个视频是我们第七篇文献共读的讲解视频。
-13. 「HowToThinkStraight…」这个视频是我们科普「这才是心理学」的科普讲解视频第二部。
-14. 「PaperReading008_AnEyeMovementStudy……」这个视频是我们第八篇文献共读的讲解视频。
-15. 「PaperReading009_AnEyeMovementStudy……」这个视频是我们第九篇文献共读的讲解视频。
-16. 「PaperReading010_AnERPStudy…」这个视频是我们第十篇文献共读的讲解视频。
-17. 「PaperReading011_theInfluence……」，这个视频是我们第十一篇文献共读的讲解视频。
-18. 「PaperReading013_theEffect……」，这个视频是我们第十三篇文献共读的讲解视频。
-19. 「HowToLearnGeneralPsychology_2」，这个视频是我们串讲普心的课程视频。
+- 「TrainingCampScheduleCeremony」这个是我们初试训练营的开营视频；
+- 「PaperReading001_Attention…」这个视频是我们第一篇文献共读的讲解视频；
+- 「PaperReading002_Mindful…」这个视频是我们第二篇文献共读的讲解视频；
+- 「PaperReading003_Emotional…」这个视频是我们第三篇文献共读的讲解视频；
+- 「HowToThinkStraight…」这个视频是我们科普「这才是心理学」的科普讲解视频第一部；
+- 「PaperReading004_Spatial…」这个视频是我们第四篇文献共读的讲解视频；
+- 「HowToLearn…」有两个视频，一个是如何复习普心，一个是如何复习实验心理学课本；
+- 「PaperReading005_Effect…」这个视频是我们第五篇文献共读的讲解视频；
+- 「PsychopyOnlineExperimentPlatform」这个视频是实验心理学在线实验平台，用来学习相关实验范式；
+- 「mayAnswerQuestion」这个视频是五月整体答疑；
+- 「PaperReading006_SpatialObject…」这个视频是我们第六篇文献共读的讲解视频；
+- 「PaperReading007_AnERPStudy…」这个视频是我们第七篇文献共读的讲解视频；
+- 「HowToThinkStraight…」这个视频是我们科普「这才是心理学」的科普讲解视频第二部；
+- 「PaperReading008_AnEyeMovementStudy……」这个视频是我们第八篇文献共读的讲解视频；
+- 「PaperReading009_AnEyeMovementStudy……」这个视频是我们第九篇文献共读的讲解视频；
+- 「PaperReading010_AnERPStudy…」这个视频是我们第十篇文献共读的讲解视频；
+- 「PaperReading011_theInfluence……」，这个视频是我们第十一篇文献共读的讲解视频；
+- 「PaperReading013_theEffect……」，这个视频是我们第十三篇文献共读的讲解视频；
+- 「HowToLearnGeneralPsychology_2」，这个视频是我们串讲普心的课程视频。
 
 
 ### PaperReadingSet
 「PaperReadingSet」这个文件夹存放的是我们每次文献共读的文献，然后文件的先后顺序通过文件名体现，如 PaperReading001、PaperReading002，目前已读完十几篇。
 
 该文件夹现有如下资料：
-1. 「PaperReading001_Attention…」是我们第一篇共读的实验心理学文献，200405 已读完。
-2. 「PaperReading002_Mindfulness…」是我们第二篇共读的实验心理学文献，200412 已读完。
-3. 「PaperReading003_Emotional…」是我们第三篇共读的实验心理学文献， 200419 已读完。
-4. 「PaperReading004_Spatial…」是我们第四篇共读的实验心理学文献，200502 已读完。
-5. 「PaperReading005_Effect…」是我们第五篇共读的实验心理学文献，200513 已读完。
-6. 「PaperReading006_SpatialObject……」，是我们第六篇共读的实验心理学文献，200607 已读完。
-7. 「PaperReading007_AnERPStudy……」，是我们第七篇共读的实验心理学文献，2006016 已读完。
-8. 「PaperReading008_AnEyeMovementStudy……」，是我们第八篇共读的实验心理学文献，2006028 已读完。
-9. 「PaperReading009_AnEyeMovementStudy……」，是我们第九篇共读的实验心理学文献，200705 已读完。
-10. 「PaperReading010_AnERPStudy……」，是我们第十篇共读的实验心理学文献，200712 已读完。
-11. 「PaperReading011_theInfluence……」，是我们第十一篇共读的实验心理学文献，200717 已读完。
-12. 「PaperReading013_theEffect……」，是我们第十三篇共读的实验心理学文献，200823 已读完。
-13. 「PaperReading014_……」，是我们第十三篇共读的实验心理学文献，200829 已读完。
+- 「PaperReading001_Attention…」是我们第一篇共读的实验心理学文献，200405 已读完；
+- 「PaperReading002_Mindfulness…」是我们第二篇共读的实验心理学文献，200412 已读完；
+- 「PaperReading003_Emotional…」是我们第三篇共读的实验心理学文献， 200419 已读完；
+- 「PaperReading004_Spatial…」是我们第四篇共读的实验心理学文献，200502 已读完；
+- 「PaperReading005_Effect…」是我们第五篇共读的实验心理学文献，200513 已读完；
+- 「PaperReading006_SpatialObject……」，是我们第六篇共读的实验心理学文献，200607 已读完；
+- 「PaperReading007_AnERPStudy……」，是我们第七篇共读的实验心理学文献，2006016 已读完；
+- 「PaperReading008_AnEyeMovementStudy……」，是我们第八篇共读的实验心理学文献，2006028 已读完；
+- 「PaperReading009_AnEyeMovementStudy……」，是我们第九篇共读的实验心理学文献，200705 已读完；
+- 「PaperReading010_AnERPStudy……」，是我们第十篇共读的实验心理学文献，200712 已读完了；
+- 「PaperReading011_theInfluence……」，是我们第十一篇共读的实验心理学文献，200717 已读完；
+- 「PaperReading013_theEffect……」，是我们第十三篇共读的实验心理学文献，200823 已读完；
+- 「PaperReading014_……」，是我们第十三篇共读的实验心理学文献，200829 已读完。
 
 ### MixMaterialSet
 「MixMaterialSet」这个文件夹放的是各种零散的技术类的文档，如里面有「值得跟踪的公众号」、「卡片笔记法」、「Zotero + 知网技法」、「外在阅读法」等文件。大家入营后优先浏览一遍这个文件夹的资料。其中「卡片笔记法」是最为重要的。之后有一些技术类的文件、或者学习「统计」的复习规划，从「文献共读学到的实验心理学」等文件都会放到这个文件夹。优先看下「卡片笔记法」，使用这种方法完成普心、实验和统计的笔记。对于实验的学习，重点看一下「深入浅出理解实验心理学」，也就是「HeadFirst…」这个文件。复习进度比较快的同学，看一下「基础阶段复习规划」这个文件。
 
 该文件夹现有如下资料：
-1. 「ZoteroZhiWangMethod」是我们秘密武器库中的「Zotero +知网」技法。
-2. 「TrainingCampSchedule」是初试训练营的整体安排规划。
-3. 「HeadFirstExperimentalPsychology01」是「深入浅出实验心理学」第一篇指导文档。
-4. 「HeadFirstExperimentalPsychology02」是「深入浅出实验心理学」第二篇指导文档。
-5. 「FollowPulicAccount」是优质信息源，值得追踪的一批心理学公众号。
-6. 「ExternalReviewMethod」是我们秘密武器库的「外在阅读法」。
-7. 「CardNoteMethod」是我们秘密武器库的「卡片笔记法」，这个属于我们的重型武器。
-8. 「BaseStageReviewPlanning」该文件是基础阶段的复习规划，复习进度比较快的同学可以参考这个文档指定的规划。
-9. 「AprilMayReviewPlanning」该文件是为 4、5 月份指定的复习规划，一战的同学可参考这个规划。
-10. 「CognitiveLearnBasicMethod」文件是我们训练营每位同学都应该基础的基本学习准备。
-11. 「WorkFlowyRecordMethod」介绍使用 Workflowy 记录下我们的学习轨迹，用以阶段性总结。
-12. 「expSampleForCardNote」这个文件写的是「实验设计题」答题的范例，也就是考试时候作答的模版和规范。
-13. 「JulyAugustSeptemberReviewPlanning」这个文件夹是我们七到九月份的复习规划。
-14. 「ExperimentalPsychologyCoreKnowledgeSummary」这个文件是实验心理学考点汇总，供大家复习参考方向。
-15. 「pastExamAnalysisMethod」这个文件是真题分析法，对于大家研究真题非常有必要。
+- 「ZoteroZhiWangMethod」是我们秘密武器库中的「Zotero +知网」技法；
+- 「TrainingCampSchedule」是初试训练营的整体安排规划；
+- 「HeadFirstExperimentalPsychology01」是「深入浅出实验心理学」第一篇指导文档；
+- 「HeadFirstExperimentalPsychology02」是「深入浅出实验心理学」第二篇指导文档；
+- 「FollowPulicAccount」是优质信息源，值得追踪的一批心理学公众号；
+- 「ExternalReviewMethod」是我们秘密武器库的「外在阅读法」；
+- 「CardNoteMethod」是我们秘密武器库的「卡片笔记法」，这个属于我们的重型武器；
+- 「BaseStageReviewPlanning」该文件是基础阶段的复习规划，复习进度比较快的同学可以参考这个文档指定的规划；
+- 「AprilMayReviewPlanning」该文件是为 4、5 月份指定的复习规划，一战的同学可参考这个规划；
+- 「CognitiveLearnBasicMethod」文件是我们训练营每位同学都应该基础的基本学习准备；
+- 「WorkFlowyRecordMethod」介绍使用 Workflowy 记录下我们的学习轨迹，用以阶段性总结；
+- 「expSampleForCardNote」这个文件写的是「实验设计题」答题的范例，也就是考试时候作答的模版和规范；
+- 「JulyAugustSeptemberReviewPlanning」这个文件夹是我们七到九月份的复习规划；
+- 「ExperimentalPsychologyCoreKnowledgeSummary」这个文件是实验心理学考点汇总，供大家复习参考方向；
+- 「pastExamAnalysisMethod」这个文件是真题分析法，对于大家研究真题非常有必要。
 
 ### PaperReviewSet
 该文件夹主要放的是「普心」知识点的文献综述部分，学叔一点一点给大家整理。
 
-1. 截止到 200705 已有 11 篇相关文献。
-2. 新创建 200711/200712 两个文件夹，放入普心相关文献。
-3. 已经按照普心的每个章节，都放入相关的参考文献内容，供大家学习拓展。
+- 截止到 200705 已有 11 篇相关文献；
+- 新创建 200711/200712 两个文件夹，放入普心相关文献；
+- 已经按照普心的每个章节，都放入相关的参考文献内容，供大家学习拓展。
 
 
 ## 训练营周报进度
