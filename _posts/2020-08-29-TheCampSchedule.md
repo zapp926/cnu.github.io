@@ -6,7 +6,6 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 ---
 
 ## 训练营规划
-
 ![TrainingCampSchedule](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/TrainingCampSchedule.png)
 
 ![](http://image.cnu347.com/2020-08-29-200829-trainingCamp.png)
@@ -29,7 +28,7 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
     - 舒华老师讲解的「多因素实验设计」视频
 
 ### VideoSet
-「VideoSet」这个文件夹存在我们每次使用 Zoom 交流后的录像，如「TrainingCampSchedule…」是我们训练营开营的视频，「PaperReading001…」这个是我们第一次文献共读的讲解视频。之后串讲课本，答疑交流的一些录像也都会放在这个文件夹中。不同类型的录像，通过文件名进行区分即可。文件名采用驼峰式，可读性很高。「心理学在线实验平台」视频比较重要，需要看。该文件夹现有如下资料：
+「VideoSet」这个文件夹存在我们每次使用 Zoom 交流后的录像，如「TrainingCampSchedule…」是我们训练营开营的视频，之后串讲课本，答疑交流的一些录像也都会放在这个文件夹中。不同类型的录像，通过文件名进行区分即可。文件名采用驼峰式，可读性很高。该文件夹现有如下资料：
 - 「TrainingCampScheduleCeremony」这个是我们初试训练营的开营视频；
 - 「PaperReading001_Attention…」这个视频是我们第一篇文献共读的讲解视频；
 - 「PaperReading002_Mindful…」这个视频是我们第二篇文献共读的讲解视频；
@@ -38,7 +37,7 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 - 「PaperReading004_Spatial…」这个视频是我们第四篇文献共读的讲解视频；
 - 「HowToLearn…」有两个视频，一个是如何复习普心，一个是如何复习实验心理学课本；
 - 「PaperReading005_Effect…」这个视频是我们第五篇文献共读的讲解视频；
-- 「PsychopyOnlineExperimentPlatform」这个视频是实验心理学在线实验平台，用来学习相关实验范式；
+- 「PsychopyExperimentPlatform」这个视频是实验心理学在线实验平台，用来学习相关实验范式；
 - 「mayAnswerQuestion」这个视频是五月整体答疑；
 - 「PaperReading006_SpatialObject…」这个视频是我们第六篇文献共读的讲解视频；
 - 「PaperReading007_AnERPStudy…」这个视频是我们第七篇文献共读的讲解视频；
@@ -90,7 +89,6 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 - 截止到 200705 已有 11 篇相关文献；
 - 新创建 200711/200712 两个文件夹，放入普心相关文献；
 - 已经按照普心的每个章节，都放入相关的参考文献内容，供大家学习拓展。
-
 
 ## 训练营周报进度
 ### 第一周周报
