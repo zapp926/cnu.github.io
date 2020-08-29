@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师大应用心理成功经验
+title: 首师大应用心理上岸分享
 category: blog
 description: 希望你们能将这段经历、这段岁月潜在气质里、在谈吐上、在胸襟的无涯里。
 ---
