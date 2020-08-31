@@ -97,4 +97,3 @@ description: 提分秘籍，送你三十分。
 **学叔微信：CNU_psychology**，扫码👇加。
 
 ![wechat_xueshu.jpeg](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
-
