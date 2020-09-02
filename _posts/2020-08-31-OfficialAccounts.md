@@ -6,8 +6,8 @@ description: 博观而约取，厚积而薄发。
 ---
 
 ## 心理学相关公众号推荐
-![OfficialAccounts01](http://image.cnu347.com/2020-08-30-OfficialAccounts01.png)
-![OfficialAccounts02](http://image.cnu347.com/2020-08-30-OfficialAccounts02.png)
+![OfficialAccounts01](https://image.cnu347.com/2020-08-30-OfficialAccounts01.png)
+![OfficialAccounts02](https://image.cnu347.com/2020-08-30-OfficialAccounts02.png)
 
 ## 后记
 岁月不居，时节如流。我们欢乐，我们忧伤，我们依然想做那个可能的自己。人是世界上最好的产品，成为自己，是对自己最大的奖赏。

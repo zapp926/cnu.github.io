@@ -8,7 +8,7 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 ## 训练营规划
 ![TrainingCampSchedule](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/TrainingCampSchedule.png)
 
-![](http://image.cnu347.com/2020-08-29-200829-trainingCamp.png)
+![TrainingCamp](https://image.cnu347.com/2020-08-29-200829-trainingCamp.png)
 
 ### 新手指南
 - 加入群组，群组二维码见下面👇图片，资料均已放入到群组中；
