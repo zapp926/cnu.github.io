@@ -1,4 +1,4 @@
-# ---
+---
 layout:     post
 title: 首师应用心理考研源头资料
 category: blog
