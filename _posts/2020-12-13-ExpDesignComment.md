@@ -1,4 +1,10 @@
-## 实验设计题点评
+---
+layout:     post
+title: 首师应用心理实验设计题点评
+category: blog
+description: 实验答题模版，如何拿满分。
+---
+
 ## Subj01
 ![](https://image.cnu347.com/2020-12-13-Subj01-01.jpeg)
 ![](https://image.cnu347.com/2020-12-13-Subj01-02.jpeg)
