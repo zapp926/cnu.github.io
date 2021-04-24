@@ -1,4 +1,4 @@
-# ---
+---
 layout:     post
 title: 首师应用心理弯道超车指北
 category: blog
