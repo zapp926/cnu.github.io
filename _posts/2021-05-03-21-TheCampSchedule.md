@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师应用心理「初试训练营」资料
+title: 21-首师应用心理「初试训练营」合集
 category: blog
 description: 人是世界上最好的产品，成为自己，是最大的奖赏。
 ---
@@ -68,27 +68,35 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 
 ### MixMaterialSet
 「MixMaterialSet」这个文件夹放的是各种零散的技术类的文档，如里面有「值得跟踪的公众号」、「卡片笔记法」、「Zotero + 知网技法」、「外在阅读法」等文件。大家入营后优先浏览一遍这个文件夹的资料。其中「卡片笔记法」是最为重要的。之后有一些技术类的文件、或者学习「统计」的复习规划，从「文献共读学到的实验心理学」等文件都会放到这个文件夹。优先看下「卡片笔记法」，使用这种方法完成普心、实验和统计的笔记。对于实验的学习，重点看一下「深入浅出理解实验心理学」，也就是「HeadFirst…」这个文件。复习进度比较快的同学，看一下「基础阶段复习规划」这个文件。该文件夹现有如下资料：
-- 「ZoteroZhiWangMethod」是我们秘密武器库中的「Zotero +知网」技法；
-- 「TrainingCampSchedule」是初试训练营的整体安排规划；
-- 「HeadFirstExperimentalPsychology01」是「深入浅出实验心理学」第一篇指导文档；
-- 「HeadFirstExperimentalPsychology02」是「深入浅出实验心理学」第二篇指导文档；
-- 「FollowPulicAccount」是优质信息源，值得追踪的一批心理学公众号；
-- 「ExternalReviewMethod」是我们秘密武器库的「外在阅读法」；
-- 「CardNoteMethod」是我们秘密武器库的「卡片笔记法」，这个属于我们的重型武器；
-- 「BaseStageReviewPlanning」该文件是基础阶段的复习规划，复习进度比较快的同学可以参考这个文档指定的规划；
-- 「AprilMayReviewPlanning」该文件是为 4、5 月份指定的复习规划，一战的同学可参考这个规划；
-- 「CognitiveLearnBasicMethod」文件是我们训练营每位同学都应该基础的基本学习准备；
-- 「WorkFlowyRecordMethod」介绍使用 Workflowy 记录下我们的学习轨迹，用以阶段性总结；
-- 「expSampleForCardNote」这个文件写的是「实验设计题」答题的范例，也就是考试时候作答的模版和规范；
-- 「JulyAugustSeptemberReviewPlanning」这个文件夹是我们七到九月份的复习规划；
-- 「ExperimentalPsychologyCoreKnowledgeSummary」这个文件是实验心理学考点汇总，供大家复习参考方向；
-- 「pastExamAnalysisMethod」这个文件是真题分析法，对于大家研究真题非常有必要。
+*  「ZoteroZhiWangMethod」是我们秘密武器库中的「Zotero +知网」技法。
+*  「TrainingCampSchedule」是初试训练营的整体安排规划。
+*  「HeadFirstExperimentalPsychology01」是「深入浅出实验心理学」第一篇指导文档。
+*  「HeadFirstExperimentalPsychology02」是「深入浅出实验心理学」第二篇指导文档。
+*  「FollowPulicAccount」是优质信息源，值得追踪的一批心理学公众号。
+*  「ExternalReviewMethod」是我们秘密武器库的「外在阅读法」。
+*  「CardNoteMethod」是我们秘密武器库的「卡片笔记法」，这个属于我们的重型武器。
+*  「BaseStageReviewPlanning」该文件是基础阶段的复习规划，复习进度比较快的同学可以参考这个文档指定的规划。
+*  「AprilMayReviewPlanning」该文件是为 4、5 月份指定的复习规划，一战的同学可参考这个规划。
+*  「CognitiveLearnBasicMethod」文件是我们训练营每位同学都应该基础的基本学习准备。
+*  「WorkFlowyRecordMethod」介绍使用 Workflowy 记录下我们的学习轨迹，用以阶段性总结。
+*  「expSampleForCardNote」这个文件写的是「实验设计题」答题的范例，也就是考试时候作答的模版和规范。
+*  「JulyAugustSeptemberReviewPlanning」这个文件夹是我们七到九月份的复习规划。
+*  「ExperimentalPsychologyCoreKnowledgeSummary」这个文件是实验心理学考点汇总，供大家复习参考方向。
+*  「pastExamAnalysisMethod」这个文件是真题分析法，对于大家研究真题非常有必要。
+*  「cnu347.com_SourceMaterial」这个是我们的源头资料，包含了专硕的历年真题、学硕的考研真题、考博的真题、期末题、早前真题等资料，非常重要的源头资料。
+*  「expSampleForCardNote」这个文件是实验设计题的答题模版，非常重要，必须好好理解。
+*  「StatisticalReviewEmphasis_2021」该文件为心理统计课本的考点汇总。
+*  「StatisticalReviewEmphasis」这个文件夹为心理统计学的划重点。
+*  「OctoberReviewManual」这个文件夹为我们十月份的复习规划和指南。
 
 ### PaperReviewSet
 该文件夹主要放的是「普心」知识点的文献综述部分，学叔一点一点给大家整理。
 - 截止到 200705 已有 11 篇相关文献；
 - 新创建 200711/200712 两个文件夹，放入普心相关文献；
 - 已经按照普心的每个章节，都放入相关的参考文献内容，供大家学习拓展。
+
+### AudioFileSet
+- 该文件夹是普心、统计、实验三本书的划重点的音频。三本书的重点已经划完，请认真学习。
 
 ## 训练营周报进度
 ### 第一周周报
