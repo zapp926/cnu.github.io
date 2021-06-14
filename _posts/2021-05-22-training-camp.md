@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师应用心理「初试训练营」介绍
+title: 首师应用心理「初试训练营」
 category: blog
 description: 人是世界上最好的产品，成为自己，是最大的奖赏。
 ---
