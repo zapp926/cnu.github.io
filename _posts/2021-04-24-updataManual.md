@@ -53,6 +53,7 @@ description: 摆脱人生脚本，实现弯道超车。
     - [实验发展心理学](http://product.dangdang.com/25225808.html)
     - [认知心理学经典实验范式](https://book.douban.com/subject/34827650/)
     - [心理学经典实验案例](http://product.dangdang.com/23285343.html)
+    - [会读才会写](https://book.douban.com/subject/26655043/)
 
 ## 技能
 * 强烈推荐大家学编程。不用纠结学什么，直接学 Python 就行。具体资源可参考「[awesome-neuroscience清单](https://github.com/analyticalmonk/awesome-neuroscience)」。Github 是创造者的圣地，里面有着最优质的资源，尤其是你想编程的话！
