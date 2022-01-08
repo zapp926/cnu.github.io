@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: 首师大应用心理「复试训练营」v2.1
+title: 首师大应用心理「复试训练营」v3.2
 category: blog
 description: 圆梦首师大，就在那分分秒秒，滴滴答答。
 ---
