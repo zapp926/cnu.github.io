@@ -8,6 +8,7 @@ description: 圆梦首师大，就在那分分秒秒，滴滴答答。
 ## TimeLine
 ### 2022 
 * 2021.12.25 考研初试
+* 2022.02.21 公布考研初试成绩
 
 ### 2021
 * 2020.12.27 考研初试
@@ -98,7 +99,6 @@ Q8. 真题来源
 答：笔试和面试的真题都是参加复试的同学提供的，面试真题积累了几百道，把复试圣经中的这些面试真题都准备充分，复试基本就没风险了。
 
 ![reexamine-3](https://image.cnu347.com/reexamine-3.jpeg)
-
 
 
 ![reexamine-5](https://image.cnu347.com/reexamine-5.jpeg)
