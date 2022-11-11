@@ -7,10 +7,10 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>CNU347</h1>
+        <a href="https://beian.miit.gov.cn/">津ICP备20006477号-1</a>
       </div>
       <div id="particles-js"></div>
     </div>
-
     <div class="index-content">
       <ul class="artical-list">
         {% for post in site.categories.blog %}
