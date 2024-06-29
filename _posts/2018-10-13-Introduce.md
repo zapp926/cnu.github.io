@@ -83,5 +83,7 @@ description: 选自己喜欢的方向，做自己擅长的事，会上瘾。
 
 学叔微信：CNU_psychology
 
+![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
+
 
 

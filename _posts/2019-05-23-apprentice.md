@@ -48,5 +48,5 @@ description: 乘风破浪，好下山河。
 
 莱维教授曾说过「人生，事实上是选择的总和。」生活由以百万计的选择组成，有些微不足道，有些举重若轻。你要么迈出成长的脚步，要么退缩到安稳的角落。我已作出选择，你呢？
 
-![wechat_xueshu.jpeg](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
+![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
 

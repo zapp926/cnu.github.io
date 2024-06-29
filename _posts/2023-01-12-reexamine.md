@@ -143,5 +143,5 @@ Q8. 真题来源
 
 我们是谁？我们是首师大 347 应用心理的追梦人，你一个人可能走的很快，但我们一群人能走的更远。学叔微信：CNU_psychology。扫码👇加。
 
-![wechat_xueshu.jpeg](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
+![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
 

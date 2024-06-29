@@ -243,7 +243,7 @@ description: 最美不过四月天，时节清明刚过，吐故纳新。此时�
 
 **学叔微信：CNU_psychology**
 
-![](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
+![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
 
 
 

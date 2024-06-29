@@ -52,5 +52,5 @@ description: 机会从来都留给有准备的人。
 
 前路漫漫，好风相伴，来一杯免费的小蓝杯。
 
-![wechat_xueshu.jpeg](https://cnu347-1257355643.cos.ap-beijing.myqcloud.com/CNU347/WechatIMG125.jpeg)
+![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
 
