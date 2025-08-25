@@ -96,4 +96,4 @@ description: 提分秘籍，送你三十分。
 
 **学叔微信：CNU_psychology**，扫码👇加。
 
-![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
+![](https://image.cnu347.com/wechat_cnuPsychology.jpg)
