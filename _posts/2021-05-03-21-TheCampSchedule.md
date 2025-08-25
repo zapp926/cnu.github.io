@@ -191,5 +191,4 @@ description: 人是世界上最好的产品，成为自己，是最大的奖赏�
 
 我们是谁？我们是首师大 347 应用心理的追梦人，你一个人可能走的很快，但我们一群人能走的更远。学叔微信：CNU_psychology。扫码👇加。
 
-![wechat_xueshu.jpeg](https://image.cnu347.com/WechatQRCode-240629.jpg)
-
+![](https://image.cnu347.com/wechat_cnuPsychology.jpg)

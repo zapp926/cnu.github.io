@@ -130,3 +130,4 @@ description: 希望你们能将这段经历、这段岁月潜在气质里、在�
 
 良友相伴，青春激扬，谢谢你，谢谢你们，我是学叔。
 
+![](https://image.cnu347.com/wechat_cnuPsychology.jpg)
